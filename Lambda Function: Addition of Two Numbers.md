@@ -17,6 +17,7 @@ print(f(a, b))
 ~~~
 
 ## Output
+<img width="327" height="201" alt="image" src="https://github.com/user-attachments/assets/bae4ba25-67e1-4433-954b-59922b6af113" />
 
 ## Result
 Thus, The Python program that defines a lambda function which takes two arguments a and b, and returns their sum was executed successfully.
