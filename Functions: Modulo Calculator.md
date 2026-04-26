@@ -22,6 +22,7 @@ result(val1, val2)
 ~~~
 
 ## Output
+<img width="368" height="272" alt="image" src="https://github.com/user-attachments/assets/4d907c08-2e61-4b64-b7fa-e89e3da5e8a4" />
 
 ## Result
 Thus, The Python program that defines a function which accepts two values and returns their modulo using the % operator was executed successfully.
