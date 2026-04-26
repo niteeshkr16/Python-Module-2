@@ -32,6 +32,7 @@ else:
 ~~~
 
 ## Output
+<img width="533" height="368" alt="image" src="https://github.com/user-attachments/assets/42458bd3-45f1-43b5-a7b7-0dd64f2a2eee" />
 
 ## Result
 Thus, The Python program that checks whether a given number is a palindrome using loops was executed successfully.
